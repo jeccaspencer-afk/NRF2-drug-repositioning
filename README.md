@@ -5,7 +5,7 @@ This repository contains the scripts used for computational drug repositioning t
 
 ## Contents
 - NRF2 consensus signature construction (TCGA + LINCS)
-- Connectivity-based drug repositioning analysis
+- Signature-reversal based drug repositioning analysis
 - CKAP4 validation analysis
 
 ## Requirements
